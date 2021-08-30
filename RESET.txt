@@ -1,1 +1,1 @@
-RESET_branch
+RESET_branch_tag
